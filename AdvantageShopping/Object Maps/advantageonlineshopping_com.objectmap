@@ -1,0 +1,17 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="advantageonlineshopping_com" locator="//BrowserApplication" urlPattern="*advantageonlineshopping.com*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id="$2,018 00" locator="//SPAN[@textContents=&apos;$2,018.00&apos;][2]"/>
+      <ObjectMapEntry id="$2,018 002" locator="//SPAN[@textContents=&apos;$2,018.00&apos;]"/>
+      <ObjectMapEntry id="16" locator="//IMG[@id=&apos;16&apos;]"/>
+      <ObjectMapEntry id="catalog fetchImage" locator="//IMG[@data-ng-src=&apos;/catalog/fetchImage?*&apos;][2]"/>
+      <ObjectMapEntry id="checkOutButton" locator="//BUTTON[@id=&apos;checkOutButton&apos;]"/>
+      <ObjectMapEntry id="mainImg" locator="//IMG[@id=&apos;mainImg&apos;]"/>
+      <ObjectMapEntry id="menuCart" locator="//svg[@id=&apos;menuCart&apos;]"/>
+      <ObjectMapEntry id="plus" locator="//DIV[@class=&apos;plus&apos;]"/>
+      <ObjectMapEntry id="rabbit" locator="//SPAN[@id=&apos;rabbit&apos;][2]"/>
+      <ObjectMapEntry id="save_to_cart" locator="//BUTTON[@name=&apos;save_to_cart&apos;]"/>
+      <ObjectMapEntry id="tabletsImg" locator="//DIV[@id=&apos;tabletsImg&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>
